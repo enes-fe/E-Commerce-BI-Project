@@ -5,7 +5,7 @@ Bu proje, Brezilya'nın en büyük e-ticaret platformlarından biri olan Olist'i
 **Canlı Dashboard:**
 [Projenin interaktif Tableau Dashboard'unu incelemek için buraya tıklayın.](https://public.tableau.com/app/profile/enes.demir/viz/E-CommerceMteriMemnuniyetiDashboard/Dashboard1?publish=yes
 )
-**Kullanılan Araçlar:** Python, Pandas (Veri Hazırlama), Matplotlib/Seaborn (İlk Analiz), **Tableau** (Nihai Dashboard)
+**Kullanılan Araçlar:** Python, Pandas (Veri Hazırlama), Matplotlib/Seaborn (İlk Analiz),Gemini (AI Yardımcı), **Tableau** (Nihai Dashboard)
 
 ## Proje Adımları
 
@@ -36,3 +36,4 @@ Bu bulgu, şirketin kargo optimizasyonundan çok, bu kritik kategorilerdeki sat�
 
 
 ![Tableau Hata Oranı Grafiği](hata_orani_grafik.png)
+
